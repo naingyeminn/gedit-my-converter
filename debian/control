@@ -1,0 +1,12 @@
+Source: gedit-my-converter
+Section: gnome
+Priority: extra
+Maintainer: Naing Ye Minn <naingyeminn@gmail.com>
+
+Package: gedit-my-converter
+Architecture: all 
+Depends: python-myanmar
+Homepage: https://github.com/seriousblaze/gedit-my-converter 
+Description: My Converter - Gedit Plugin
+ .
+ This plugin can convert between Zawgyi-One and Myanmar Unicode.

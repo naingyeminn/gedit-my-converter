@@ -1,0 +1,2 @@
+[org.gnome.gedit.plugins]
+active-plugins=['my_converter']
