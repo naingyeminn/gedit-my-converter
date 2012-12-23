@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=my_converter
+IAge=3
+Name=My Converter
+Description=Convert between Zawgyi and Myanmar Unicode
+Authors=Naing Ye` Minn
+Copyright=Copyright © 2012 Naing Ye Minn
+Website=http://seriousblaze.u4mm.com
+Version=1.0.0
